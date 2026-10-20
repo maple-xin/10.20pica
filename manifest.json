@@ -1,0 +1,129 @@
+[
+  {
+    "name": "bulbasaur",
+    "chineseName": "妙蛙种子",
+    "file": "bulbasaur.glb",
+    "bytes": 529872,
+    "sha256": "2fdae4d89b9c881f90d325e2c21fe92045a16af83039662163c2b39e01e1302c",
+    "author": "anak3d",
+    "authorUrl": "https://sketchfab.com/anak3d1234",
+    "source": "https://sketchfab.com/3d-models/0001-bulbasaur-3d-465f0afd31754705ae8db328c1c17644",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 2,
+    "jointCounts": [
+      41
+    ],
+    "animationClips": [
+      "bulbasaur |bulbasaur walk"
+    ],
+    "embeddedImages": 1,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  },
+  {
+    "name": "charmander",
+    "chineseName": "小火龙",
+    "file": "charmander.glb",
+    "bytes": 2402936,
+    "sha256": "df450a9438f95fdb735a73825b618c02173b2c448d733a141a72488cbd121cc4",
+    "author": "anak3d",
+    "authorUrl": "https://sketchfab.com/anak3d1234",
+    "source": "https://sketchfab.com/3d-models/0004-charmander-3d-cd7ee496f0564ccba2276960071b4a85",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 2,
+    "jointCounts": [
+      35
+    ],
+    "animationClips": [
+      "metarig|metarig|Charmander walk",
+      "Key|Sphere|appii"
+    ],
+    "embeddedImages": 2,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  },
+  {
+    "name": "squirtle",
+    "chineseName": "杰尼龟",
+    "file": "squirtle.glb",
+    "bytes": 3405796,
+    "sha256": "1c90cf87089aa87c3929367eba7d34eac9cc1fb6324164e4703f71de68792df3",
+    "author": "anak3d",
+    "authorUrl": "https://sketchfab.com/anak3d1234",
+    "source": "https://sketchfab.com/3d-models/0007-squirtle-3d-831941677d554cc997c50b707b2dd1c4",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 2,
+    "jointCounts": [
+      36
+    ],
+    "animationClips": [
+      "metarig.003|Squirtle walk"
+    ],
+    "embeddedImages": 1,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  },
+  {
+    "name": "jigglypuff",
+    "chineseName": "胖丁",
+    "file": "jigglypuff.glb",
+    "bytes": 2251928,
+    "sha256": "53adadc9719bff1569a9144d1f86666166e4a4ff2939a5d7ca180c6da29c5644",
+    "author": "Eleanie",
+    "authorUrl": "https://sketchfab.com/Eleanie",
+    "source": "https://sketchfab.com/3d-models/jigglypuff-371fa15534b84b9d8975e41627662783",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 3,
+    "jointCounts": [
+      48
+    ],
+    "animationClips": [],
+    "embeddedImages": 2,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  },
+  {
+    "name": "mew",
+    "chineseName": "梦幻",
+    "file": "mew.glb",
+    "bytes": 1505740,
+    "sha256": "eacd9cb46b1b17040dbbee214a2f8ec952af59b301ad3761dcc6181267a624a3",
+    "author": "Eleanie",
+    "authorUrl": "https://sketchfab.com/Eleanie",
+    "source": "https://sketchfab.com/3d-models/mew-a900675d499d4f6b98f58680ebdab6c7",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 3,
+    "jointCounts": [
+      59
+    ],
+    "animationClips": [],
+    "embeddedImages": 2,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  },
+  {
+    "name": "dragonite",
+    "chineseName": "快龙",
+    "file": "dragonite.glb",
+    "bytes": 3407612,
+    "sha256": "0ff2e53bebb25074db544f9214c52d248d0dbd37ed1e3f53c0a4d8be8df30442",
+    "author": "Eleanie",
+    "authorUrl": "https://sketchfab.com/Eleanie",
+    "source": "https://sketchfab.com/3d-models/dragonite-966370d8b1174c9ca20f2e34e7cdaeb7",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "meshes": 3,
+    "jointCounts": [
+      110
+    ],
+    "animationClips": [],
+    "embeddedImages": 2,
+    "selfContained": true,
+    "modified": "2026-10-20"
+  }
+]
