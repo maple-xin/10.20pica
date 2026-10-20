@@ -1,0 +1,10 @@
+Update only Jigglypuff, Mew, and Dragonite using these new animated assets:
+https://maple-xin.github.io/10.20pica/jigglypuff.glb?v=photo-animation-2
+https://maple-xin.github.io/10.20pica/mew.glb?v=photo-animation-2
+https://maple-xin.github.io/10.20pica/dragonite.glb?v=photo-animation-2
+
+Discard their old cached instances. Each updated GLB contains three real animation clips: Idle, LookAround, Happy. Read these from gltf.animations and play them with AnimationMixer. Show three working buttons: Idle, Look Around, Happy. Start with looping Idle; play the other actions once and smoothly return to Idle. Do not simulate these actions using whole-model spinning.
+
+Mew is a replacement model with a rounded body, a long tail, and a closed-eye smile. Preserve its supplied meshes, textures, skeleton, and proportions. Keep its gentle floating motion and fit the complete model including its tail.
+
+Keep Bulbasaur, Charmander, Squirtle, the existing interface, lighting, orbit and zoom controls unchanged. Stop and clean up the previous character's animation when switching. Do not add gameplay yet. If loading fails, show the URL and actual error.

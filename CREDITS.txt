@@ -1,41 +1,29 @@
-Six Pokemon fan-made model assets
-Downloaded through the official Sketchfab download interface on 2026-10-19.
-License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Credit the creators in the published app. Model licenses cover the creators' contributions; Pokemon character rights remain with their respective owners.
-Files were repaired and re-exported in Blender on 2026-10-20. Original author attribution and CC BY 4.0 licenses remain applicable.
+Pokémon photo animation update — 2026-10-20
 
-0001 Bulbasaur 3D (妙蛙种子) by anak3d
-https://sketchfab.com/3d-models/0001-bulbasaur-3d-465f0afd31754705ae8db328c1c17644
-Author: https://sketchfab.com/anak3d1234
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
+Source model licenses: Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+Credit the original model authors in the published experience. Pokémon character rights remain with their respective owners.
 
-0004 Charmander 3D (小火龙) by anak3d
-https://sketchfab.com/3d-models/0004-charmander-3d-cd7ee496f0564ccba2276960071b4a85
-Author: https://sketchfab.com/anak3d1234
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
-
-0007 Squirtle 3D (杰尼龟) by anak3d
-https://sketchfab.com/3d-models/0007-squirtle-3d-831941677d554cc997c50b707b2dd1c4
-Author: https://sketchfab.com/anak3d1234
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
-
-Jigglypuff (胖丁) by Eleanie
+jigglypuff — Jigglypuff
+Author: Eleanie
+https://sketchfab.com/Eleanie
 https://sketchfab.com/3d-models/jigglypuff-371fa15534b84b9d8975e41627662783
-Author: https://sketchfab.com/Eleanie
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Changes: Removed display-only geometry in the earlier repair, retained the supplied rig and textures, removed auxiliary inverted-outline shells to prevent black gaps during animation, added three skeletal clips and normalized placement.
+Animations: newly authored keyframe motion for this project; not official Pokémon game animations.
 
-Mew (梦幻) by Eleanie
-https://sketchfab.com/3d-models/mew-a900675d499d4f6b98f58680ebdab6c7
-Author: https://sketchfab.com/Eleanie
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
-
-Dragonite (快龙) by Eleanie
+dragonite — Dragonite
+Author: Eleanie
+https://sketchfab.com/Eleanie
 https://sketchfab.com/3d-models/dragonite-966370d8b1174c9ca20f2e34e7cdaeb7
-Author: https://sketchfab.com/Eleanie
-Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-Changes: repaired/re-exported GLB, normalized placement and scale; display-only geometry removed where present. Charmander and Squirtle rebuilt from author-original FBX; original walking clips retained. Bulbasaur front direction aligned. Backface culling enabled for outline shells. No new animation clips added.
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Changes: Removed display-only geometry in the earlier repair, retained the supplied rig and textures, removed auxiliary inverted-outline shells to prevent black gaps during animation, added three skeletal clips and normalized placement.
+Animations: newly authored keyframe motion for this project; not official Pokémon game animations.
+
+mew — Rigged MEW (download .blend, .fbx)
+Author: WZ556
+https://sketchfab.com/WZ556
+https://sketchfab.com/3d-models/rigged-mew-download-blend-fbx-2370355f16aa4c13a5d8f70eb9c9fccd
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Changes: Replacement Mew model; added three new skeletal clips, a relaxed curved-tail pose and normalized scale. Source preview uses a closed-eye smile.
+Animations: newly authored keyframe motion for this project; not official Pokémon game animations.
